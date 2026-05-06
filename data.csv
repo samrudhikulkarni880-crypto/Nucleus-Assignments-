@@ -1,0 +1,11 @@
+id,name,age,city,department,salary
+1,Amit,28,Mumbai,IT,50000
+2,Priya,35,Pune,HR,60000
+3,Rahul,42,Mumbai,Finance,72000
+4,Sneha,25,Nagpur,IT,45000
+5,Arjun,51,Mumbai,HR,80000
+6,Kavya,33,Pune,Finance,65000
+7,Rohan,,Mumbai,IT,55000
+8,Neha,29,Nagpur,HR,
+9,Simran,38,Mumbai,Finance,70000
+10,Akash,45,Mumbai,IT,75000
